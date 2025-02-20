@@ -84,3 +84,22 @@ the following form: YYYY.0M.0D.
 - Designed a Music Playlist component
 - Designed a Game Character component
 - Designed a Invetory component
+
+## 2025.02.20
+
+### Added
+
+- Designed a proof of concept for AudioBook Playlist component
+
+### Updated
+
+- Changed design to include ...
+  Created a Java file where I added Added javadoc comments and method
+  documentation. I also gave an example in the main method of how information
+  would be input/read using the created methods.
+  Overall I made a "template" how how everything should look without the actual
+  code(a skeleton?)
+
+```
+
+```
